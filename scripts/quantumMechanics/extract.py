@@ -7,7 +7,7 @@
 ### you can also edit the numbers in the third part of this code to get the charges and spin densities
 ### for each one of the components (see below). Everything is written in a "final output" text file.
 ###
-### Usage: python3 extract.py Gaussian_output_file.out Final_output_file.txt NumberOfAtomsInYourSystem
+### Usage: python3 extract.py Gaussian_output_file.out Final_output_file.txt Number_of_Atoms_in_Your_System
 ###
 ### Artur Hermano, Manchester UK 2022
 ###
