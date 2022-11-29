@@ -5,4 +5,4 @@ These are some of the main codes I have used to solve common problems I've come 
 
 Enjoy!
 
-<img align="right" src="https://user-images.githubusercontent.com/115626610/204092450-dd7d449b-698f-4d95-8cd4-969665f56a2b.gif">
+<img align="right" src="https://user-images.githubusercontent.com/115626610/204567577-44a2388b-3ad7-457a-8d92-6a2a79ade102.gif">
