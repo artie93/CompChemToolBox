@@ -1,6 +1,6 @@
 ### 
 ###          EXTRACT.PY
-###
+### 
 ### This program takes a Gaussian output file from a frequency calculation and from it extracts 
 ### the relevant energy values from the structure, as well as all charges and spin densities
 ### values for each atom of it. If your system is divided into sub-components (e.g. protein+substrate)
