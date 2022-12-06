@@ -1,4 +1,4 @@
-###
+### 
 ###          EXTRACT.PY
 ###
 ### This program takes a Gaussian output file from a frequency calculation and from it extracts 
