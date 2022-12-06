@@ -4,7 +4,7 @@
 ###  This code simply extracts all frames of a molecular dynamics
 ###  trajectory and converts each one into a PDB file whose names
 ###  are CAVER-friendly. 
-###
+### 
 ###  Usage: python3 genPDBs.py (see lines 27-28 below)
 ###
 ###  Artur Hermano and Thirakorn Mokkawes, Manchester UK 2022
