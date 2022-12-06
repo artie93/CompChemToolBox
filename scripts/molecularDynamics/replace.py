@@ -5,7 +5,7 @@
 ###  correcting the content of a file whose index places ran
 ###  out of space so they were turned into '****', e.g.
 ###
-###    .         .                      .      .
+###    .         .                      .      . 
 ###    .         .    is converted to   .      .
 ###    .         .                      .      .
 ###  99700     value1                99700   value1
