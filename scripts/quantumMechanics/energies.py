@@ -4,7 +4,7 @@
 #### files FROM THE PROGRAM EXTRACT.PY and 
 #### shows the energy differences between them!
 ####
-#### Usage: python3 energies.py OUTPUT_FILE_1 OUTPUT_FILE_2
+#### Usage: python3 energies.py OUTPUT_FILE_1 OUTPUT_FILE_2 
 ####
 #### The output_file_1 should refer to the initial 
 #### structure, while output_file_2 should refer to
