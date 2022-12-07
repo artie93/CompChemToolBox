@@ -7,7 +7,7 @@
 ###
 ###
 
-import sys
+import sys 
 reading = open(sys.argv[1],'r')
 writing = open(sys.argv[2],'w')
 
