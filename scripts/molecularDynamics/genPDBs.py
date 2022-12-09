@@ -1,7 +1,7 @@
 ###
 ###    genPDBs.py
 ###
-###  This code simply extracts all frames of a molecular dynamics
+###  This code simply extracts all frames of a molecular dynamics 
 ###  trajectory and converts each one into a PDB file whose names
 ###  are CAVER-friendly. 
 ### 
