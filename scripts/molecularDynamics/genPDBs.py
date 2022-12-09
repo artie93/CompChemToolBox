@@ -8,7 +8,7 @@
 ###  Usage: python3 genPDBs.py (see lines 27-28 below)
 ###  
 ###  Artur Hermano and Thirakorn Mokkawes, Manchester UK 2022
-
+ 
 import pytraj as pt                                                         #before executing this program, make sure
 import os                                                                   #to create a subdirectory called 'frames'
                                                                             #inside your working directory
