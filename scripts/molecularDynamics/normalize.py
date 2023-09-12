@@ -2,10 +2,11 @@
 ###          NORMALIZE.PY
 ###
 ### This program takes a series of output files obtained from cpptraj-based 
-### analysis of MD simulations whose format must be .txt (change it at will on line 20) and 
-### on line 20) and contents should be in the standard cpptraj output format. Output files
-### taken as input by this program include the ones given off by the modules lie, rmsd, 
-### distance, angleinfo and dihedral. The result is a list of normalized average values for each input file.
+### analysis of MD simulations whose format must be .txt (customize it on line 20) and 
+### contents should be in the standard cpptraj output format. Output files taken as 
+### input by this program include the ones given off by the modules lie, rmsd, distance, 
+### angleinfo and dihedral. The result is a list of normalized average values 
+### for each property described in each input file.
 ###
 ### Usage: python3 normalize.py
 ###
