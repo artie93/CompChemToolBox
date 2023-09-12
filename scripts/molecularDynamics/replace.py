@@ -6,12 +6,12 @@
 ###  out of space so they were turned into '****', e.g.
 ###
 ###    .         .                      .      . 
-###    .         .    is converted to   .      .
+###    .         .                      .      .
 ###    .         .                      .      .
 ###  99700     value1                99700   value1
-###  99800     value2                99800   value2
-###  99900     value3                99900   value3
-###  *****     value4               100000   value4
+###  99800     value2     is         99800   value2
+###  99900     value3  converted     99900   value3
+###  *****     value4       to      100000   value4
 ###  *****     value5               100100   value5
 ### 
 ###  This code does this for every file inside your working
